@@ -30,3 +30,17 @@ I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/py
 - [ ] Add good vs. bad scoops logic
 - [ ] Build lives and score system
 - [ ] Add sound effects
+## Testing Tutorial Code – Sprint 1
+
+✅ Ran Tech With Tim's Pygame movement tutorial successfully  
+✅ Pygame window opened with a movable rectangle character  
+✅ Arrow keys worked for movement  
+✅ No errors occurred  
+🟡 Next steps:
+- Replace rectangle with ice cream cone sprite
+- Add scoops falling from the top of the screen
+- Track score and lives
+
+
+
+
