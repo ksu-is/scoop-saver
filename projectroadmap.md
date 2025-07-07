@@ -7,7 +7,7 @@
 - [x] Join GitHub organization and set up GitHub Desktop
 - [x] Research similar Pygame project (e.g. Tech with Tim tutorial)
 - [x] Test tutorial code and document issues
-- [ ] Customize basic version with new assets
+- [x] Customize basic version with new assets
 
 ## Codebase Research
 I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/Pygame-Tutorials?files=1). It includes:
