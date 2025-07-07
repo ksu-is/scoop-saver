@@ -5,8 +5,8 @@
 - [x] Create GitHub repo under ksu-is
 - [x] Set up README.md with project description
 - [x] Join GitHub organization and set up GitHub Desktop
-- [ ] Research similar Pygame project (e.g. Tech with Tim tutorial)
-- [ ] Test tutorial code and document issues
+- [x] Research similar Pygame project (e.g. Tech with Tim tutorial)
+- [x] Test tutorial code and document issues
 - [ ] Customize basic version with new assets
 
 ## Codebase Research
