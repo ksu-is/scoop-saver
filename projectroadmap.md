@@ -10,7 +10,7 @@
 - [ ] Customize basic version with new assets
 
 ## Codebase Research
-I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/pygame-tutorial). It includes:
+I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/Pygame-Tutorials?files=1). It includes:
 - Basic game loop structure
 - Player movement with keys
 - Sprite handling
