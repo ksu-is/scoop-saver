@@ -26,10 +26,10 @@ I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/Py
 - Plan to adapt sprite mechanics and scoring system
 
 ## Next Steps (Sprint 2)
-- [ ] Replace character graphics with ice cream cones and scoops
-- [ ] Add good vs. bad scoops logic
-- [ ] Build lives and score system
-- [ ] Add sound effects
+- [x] Replace character graphics with ice cream cones and scoops
+- [x] Add good vs. bad scoops logic
+- [x] Build lives and score system
+- [x] Add sound effects
 ## Testing Tutorial Code – Sprint 1
 
 ✅ Ran Tech With Tim's Pygame movement tutorial successfully  
@@ -40,14 +40,23 @@ I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/Py
 - Replace rectangle with ice cream cone sprite
 - Add scoops falling from the top of the screen
 - Track score and lives
+- 
 ## Sprint 2 Tasks
-- [ ] Fix cone movement to be smoother
-- [ ] Add score tracking
-- [ ] Add sound effects when ice cream is caught
-- [ ] Refactor code for readability
-- [ ] Create Game Over screen
-- [ ] Upload images for game assets 
-
+- [x] Replace rectangle with cone sprite for player
+- [x] Add falling scoop sprites (good and bad)
+- [x] Implement collision detection for scoops
+- [x] Add score tracking and display
+- [x] Add lives tracking and display
+- [x] Add sound effects for good/bad scoops
+- [x] Scale images to fit game window
+- [x] Refactor code for readability
+## Emerging Tasks
+- [ ] Add instructions/start screen
+## Sprint 2 Progress
+- Player and scoop images now display at correct size
+- Sound effects play when scoops are caught
+- Score and lives update correctly
+- Code is committed regularly to GitHub with clear messages
 
 
 
