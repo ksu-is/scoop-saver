@@ -40,6 +40,14 @@ I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/Py
 - Replace rectangle with ice cream cone sprite
 - Add scoops falling from the top of the screen
 - Track score and lives
+## Sprint 2 Tasks
+- [ ] Fix cone movement to be smoother
+- [ ] Add score tracking
+- [ ] Add sound effects when ice cream is caught
+- [ ] Refactor code for readability
+- [ ] Create Game Over screen
+- [ ] Upload images for game assets
+
 
 
 
