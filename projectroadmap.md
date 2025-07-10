@@ -46,7 +46,8 @@ I reviewed [Tech With Tim’s Pygame tutorial](https://github.com/techwithtim/Py
 - [ ] Add sound effects when ice cream is caught
 - [ ] Refactor code for readability
 - [ ] Create Game Over screen
-- [ ] Upload images for game assets
+- [ ] Upload images for game assets 
+
 
 
 
